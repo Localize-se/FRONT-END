@@ -1,3 +1,3 @@
 # FRONT-END
 
--install extension Go Live  
+-install extension Live Server 
